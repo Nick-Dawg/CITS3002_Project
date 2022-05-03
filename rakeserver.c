@@ -8,7 +8,7 @@
 #include <poll.h>
 #include <errno.h>
 
-#define MYPORT "3490"
+#define MYPORT "9000"
 #define BACKLOG 10
 
 
